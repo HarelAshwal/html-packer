@@ -1,2 +1,4 @@
 *.js
-*.map.js
+*.js.map
+node_modules/
+doc/
